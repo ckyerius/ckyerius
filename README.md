@@ -5,6 +5,7 @@ https://ckyerius.github.io/midterm/
 There are some functions in the website like you can click on the buttons on the top right corner or the bottom right corner of each section for redirectory.
 There is a map of polyu logo that you can click and it opens a new tab for polyu website.
 In the last section there is a photo gallery, you can click on the arrows and dots, there are functions that can redirect the corresponding photo.
+The photo gallery changes the photos automatically.
 
 Notice that it may takes a while to load the pictures as the image size is quite big for high resolution purpose, also it takes much longer time for mobile devices to load, sometimes the phone cannot even load the pictures, viewing it on desktop is the best.
 font size in Macos is smaller in windows, and I am writing in windows, so the font size may seems too small in macos, but I don't want to make it too big on windows, viewing the website on windows computer is better.
